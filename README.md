@@ -1,2 +1,2 @@
-# Kredi-Kart-Doland-r-c-l-Tahmini
+# KrediKartDolandırıclıTahmini
 Kredi Kartı Dolandırıcılığını Random Forest İle Tahminleme
