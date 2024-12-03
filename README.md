@@ -18,7 +18,7 @@ Sınıf dengesizliği için SMOTE yöntemi uygulandı.
 # 4. Modelleme
 Kullanılan Algoritma:
 Random Forest
-# Model Tanımlama: Random Forest modeli, dolandırıcılık işlemlerini tespit etmek için eğitildi. Ağaç sayısı ve sınıf ağırlıkları gibi hiperparametreler optimize edildi.
+# Model Tanımlama: Random Forest modeli, dolandırıcılık işlemlerini tespit etmek için eğitildi.
 # Performans Metrikleri:
 Kesinlik (Precision)
 Geri Çağırma (Recall)
