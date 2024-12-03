@@ -1,5 +1,8 @@
+# KrediKartFraudTahmini
+![image-112](https://github.com/user-attachments/assets/a34c5b4c-4080-4aaf-9601-35d999060689)
 
-# KrediKartFraudTahmini![image-112](https://github.com/user-attachments/assets/a34c5b4c-4080-4aaf-9601-35d999060689)
+
+
 
 Dolandırıcılık Tespiti Projesi
 Bu proje, ödeme işlemleri verilerini analiz ederek dolandırıcılık (fraud) işlemlerini tespit etmeyi amaçlayan bir makine öğrenimi sistemidir. Veri seti üzerindeki modelleme ve analiz aşamalarıyla, dolandırıcılık işlemlerini doğru bir şekilde tahmin etmek hedeflenmiştir.
