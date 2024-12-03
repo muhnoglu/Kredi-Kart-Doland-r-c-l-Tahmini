@@ -31,3 +31,5 @@ Veri Analizi: Pandas, Numpy
 Görselleştirme: Matplotlib, Seaborn
 Makine Öğrenimi: Scikit-learn (Random Forest)
 Veri Dengesi: SMOTE (Synthetic Minority Oversampling Technique)
+# Kaggle :https://www.kaggle.com/code/muhammedhanolu/credit-card-fraud-prediction
+
