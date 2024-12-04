@@ -25,10 +25,8 @@ Kullanılan Algoritma:
 Random Forest
 # Model Tanımlama: Random Forest modeli, dolandırıcılık işlemlerini tespit etmek için eğitildi.
 # Performans Metrikleri:
-Kesinlik (Precision)
-Geri Çağırma (Recall)
-F1 Skoru
-ROC-AUC Skoru
+Çapraz doğrulama ile modelin doğruluğunu değerlendirim
+classification report
 # 5. Sonuçlar
 Model, dolandırıcılık işlemlerini başarılı bir şekilde tahmin etti ve performans metrikleriyle doğrulandı.
 Kullanılan Teknikler
