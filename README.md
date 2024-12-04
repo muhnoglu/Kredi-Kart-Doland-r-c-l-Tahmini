@@ -1,4 +1,4 @@
-# KrediKartFraudTahmini
+# KrediKartıFraudTahmini
 ![image-112](https://github.com/user-attachments/assets/a34c5b4c-4080-4aaf-9601-35d999060689)
 
 
